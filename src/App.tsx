@@ -15,7 +15,7 @@ function App() {
             <img
               src="/logo-side.png"
               alt="Golden Goose Venture"
-              className="w-156 h-56 mx-auto"
+              className="w-156 h-36 lg:w-156 lg:h-36 mx-auto"
             />
           </div>
 
